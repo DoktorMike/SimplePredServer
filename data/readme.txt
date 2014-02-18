@@ -1,0 +1,1 @@
+This folder should contain sample data for us to play around with.
